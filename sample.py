@@ -3,4 +3,6 @@ print "こんにちは"
 
 print "こんにちは"
 
-print "こんにちは"
+print "こんにちは3"
+
+print "こんにちは4"
