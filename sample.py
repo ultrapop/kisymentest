@@ -10,3 +10,7 @@ print "こんにちは4"
 
 print "こんにちは5"
 print "こんにちは6"
+
+
+
+aaaa
